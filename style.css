@@ -30,3 +30,15 @@ body {
     border-radius: 2rem; /* Damit können die Ecken abgerundet werden. */
     width: 100%; /* Braucht es damit das Bild im Container bleibt und nicht viel zu gross ist. */
 }
+
+.image {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.image > img {
+    width: 100%;
+}
