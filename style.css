@@ -42,3 +42,11 @@ body {
 .image > img {
     width: 100%;
 }
+body {
+    background-color: rgb(211, 178, 237);
+}
+h1 {
+    color: rgb(154, 235, 232);
+    text-decoration: underline;
+    text-align: center;
+}
