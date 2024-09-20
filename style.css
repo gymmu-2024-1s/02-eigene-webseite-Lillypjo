@@ -43,10 +43,18 @@ body {
     width: 100%;
 }
 body {
-    background-color: rgb(211, 178, 237);
+    background-color: rgb(194, 234, 247);
 }
 h1 {
-    color: rgb(154, 235, 232);
+    color: rgb(40, 97, 95);
     text-decoration: underline;
     text-align: center;
+}
+.my-box {
+    background-color: #6cc2ff;
+    width: 350px;
+    height: 120px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(177, 219, 250);
 }
